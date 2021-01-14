@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7148050c.chunk.css",
+    "main.js": "/static/js/main.8a05b7d4.chunk.js",
+    "main.js.map": "/static/js/main.8a05b7d4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1a302977.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1a302977.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.c389dd3c.chunk.js": "/static/js/2.c389dd3c.chunk.js",
+    "static/js/2.c389dd3c.chunk.js.map": "/static/js/2.c389dd3c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.7148050c.chunk.css.map": "/static/css/main.7148050c.chunk.css.map",
+    "static/js/2.c389dd3c.chunk.js.LICENSE.txt": "/static/js/2.c389dd3c.chunk.js.LICENSE.txt",
+    "static/media/stylesheet.css": "/static/media/streamster-webfont.3ca4955f.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a302977.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.c389dd3c.chunk.js",
+    "static/css/main.7148050c.chunk.css",
+    "static/js/main.8a05b7d4.chunk.js"
+  ]
+}
